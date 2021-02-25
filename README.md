@@ -8,13 +8,17 @@ A code book that describes the variables, the data, and any transformations or w
 
 
 
-Analysis R Script	analysis.R
+Analysis R Script	analysis.R  
 [R Script Link] (https://github.com/starka1986/Getting-and-Cleaning-Data-Assignment/blob/master/analysis.R)
-Tidy Data Set	tidyData.txt	
+Tidy Data Set	tidyData.txt	  
+
 [Data Set Link] (https://github.com/starka1986/Getting-and-Cleaning-Data-Assignment/blob/master/tidyData.txt)
-Github Repo	Repo
+Github Repo	Repo  
+
 [Repo Link] (https://github.com/starka1986/Getting-and-Cleaning-Data-Assignment)
-Cookbook- CodeBook.md
+Cookbook- CodeBook.md  
+
 [Repo Link] (https://github.com/starka1986/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)
-README	READMe.md	
+README	READMe.md	  
+
 [Repo Link] (https://github.com/starka1986/Getting-and-Cleaning-Data-Assignment/blob/master/README.md)
