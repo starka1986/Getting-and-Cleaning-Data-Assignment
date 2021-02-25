@@ -1,5 +1,6 @@
 # datasciencecoursera
 
+Getting and Cleaning Data- Coursera Week 4- Programming Assignment
 
 A tidy data set
 A link to a Github repository with your script for performing the analysis
