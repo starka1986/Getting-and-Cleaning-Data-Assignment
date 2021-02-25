@@ -1,4 +1,4 @@
-# datasciencecoursera
+# Getting-and-Cleaning-Data-Assignment
 
 Getting and Cleaning Data- Coursera Week 4- Programming Assignment
 
